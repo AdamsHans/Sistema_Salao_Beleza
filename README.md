@@ -1,2 +1,0 @@
-# scaling-winner
-# scaling-winner
