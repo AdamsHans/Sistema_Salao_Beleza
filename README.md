@@ -1,15 +1,35 @@
 # Studio Glamour: Sistema de Agendamento para Salão
 
-Projeto Django para gerenciar agendamentos, clientes, funcionários, serviços e controle financeiro de salão de beleza.  
-Pensado para facilitar a operação do salão, com foco em simplicidade e eficiência.
+ Studio Glamour é o jeito moderno de administrar seu salão é muito mais do que um simples sistema de agendamento é a solução completa para transformar a gestão do seu salão.
+Com ele, você organiza agenda, clientes, serviços, equipe e finanças de forma prática e eficiente, tudo em um único lugar.
+
+Desde o primeiro contato com o cliente até o fechamento do caixa, cada etapa é controlada com clareza e segurança.
+A instalação é rápida, a interface é intuitiva e a adaptação ao seu negócio é imediata.
+
+Mais do que economizar tempo, o Studio Glamour ajuda a aumentar sua produtividade, melhorar a experiência do cliente e profissionalizar a gestão.
+Você foca no que faz de melhor: cuidar da beleza, enquanto o sistema cuida do resto.
+
+
+
 
 ## Funcionalidades
 
-- Gestão completa de Clientes, Funcionários, Serviços e Agendamentos  
-- Controle financeiro básico: cadastro de entradas e saídas, fluxo de caixa  
-- Status dos agendamentos: Agendado, Concluído, Cancelado  
-- Cadastro de múltiplos serviços por agendamento  
-- Busca, filtros e ordenação no Django Admin  
+- Agendamentos sem confusão:
+
+       Organize horários, serviços e profissionais em segundos, evitando falhas e cancelamentos desnecessários.
+
+- Gestão financeira simplificada:
+
+       Registre entradas e saídas, controle seu caixa e saiba exatamente quanto foi seu Lucro.
+
+- Controle total dos clientes:
+
+       Histórico de serviços, preferências e informações sempre à mão para oferecer um atendimento VIP.
+
+- Visual moderno e intuitivo:
+
+       Com o Jazzmin, seu painel administrativo fica bonito e fácil de navegar, mesmo para quem não entende de tecnologia.
+
 
 ## Tecnologias
 
