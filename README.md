@@ -30,26 +30,40 @@ Pensado para facilitar a operação do salão, com foco em simplicidade e efici�
        python3 -m venv venv  
        source venv/bin/activate  
 
-   (Windows PowerShell e Prompt seguem o padrão que você já colocou)
+   Windows PowerShell
 
-3. Rode as migrações:  
+       python -m venv venv
+       .\venv\Scripts\Activate.ps1   
+      
+3. Instale as dependências necessárias direto com pip:
+   
+       pip install Django==5.0 django-jazzmin==2.6.0
+   
+
+4. Rode as migrações:  
 
        python manage.py migrate  
 
-4. Execute o servidor:  
+5. Execute o servidor:  
 
        python manage.py runserver  
 
-5. Acesse no navegador:  
+6. Acesse no navegador:  
 
-       http://127.0.0.1:8000/admin  
+       http://127.0.0.1:8000/admin
+
+7. Login Padrão
+
+       Usuário: m2a
+       Senha: admin123
+
 
 ## Observações
 
-- Banco padrão é SQLite — ideal para desenvolvimento. Para produção, prefira PostgreSQL ou outro banco robusto.  
-- Mantenha o ambiente virtual ativo durante o uso.  
-- Jazzmin permite customizar o admin conforme a necessidade.  
+       - Banco padrão é SQLite — ideal para desenvolvimento. Para produção, prefira PostgreSQL ou outro banco robusto.  
+       - Mantenha o ambiente virtual ativo durante o uso.  
+       - Jazzmin permite customizar o admin conforme a necessidade.  
 
 ---
 
-Feito por AdamsHans
+Feito por Adams Hans
