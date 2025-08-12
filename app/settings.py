@@ -165,8 +165,8 @@ JAZZMIN_UI_TWEAKS = {
     'theme': 'minty',
     'dark_mode_theme': None,
     'button_classes': {
-        'primary': 'btn-outline-primary',
-        'secondary': 'btn-outline-secondary',
+        'primary': 'btn-primary',
+        'secondary': 'btn-secondary',
         'info': 'btn-info',
         'warning': 'btn-warning',
         'danger': 'btn-danger',
